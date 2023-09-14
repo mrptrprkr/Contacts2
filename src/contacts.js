@@ -1,19 +1,19 @@
 const contacts = [
   {
     id: 1,
-    name: "Beyonce",
+    name: "Maria Parker",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://ae01.alicdn.com/kf/HTB1OK1dSpzqK1RjSZFoq6zfcXXaF/Gold-Crystal-Royal-Bridal-Tiara-Crown-Full-Round-Queen-Vintage-Crown-Women-Prom-Hair-Ornaments-Wedding.jpg",
     phone: "+123 456 789",
-    email: "b@beyonce.com"
+    email: "maria.parker@webtech.com"
   },
   {
     id: 2,
-    name: "Jack Bauer",
+    name: "Peter Parker",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+      "https://majestic-crowns.com/wp-content/uploads/productimages/932920601498111/mens-royal-kings-crown-crystal-gemstone-imperial-male-crown__932920601498111__53564.jpg",
     phone: "+987 654 321",
-    email: "jack@nowhere.com"
+    email: "peter.parker@webtech.com"
   },
   {
     id: 3,
